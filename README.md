@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gowtham2694/Documentation.git](https://github.com/Gowtham2694/Documentation.git)
 
-- 📝 I regularly write articles on [openstack](openstack)
-
 - 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Jenkins, and CI/CD pipelines.**
 
 - 📫 How to reach me **gowthamaws8@gmail.com | www.linkedin.com/in/gowthamcb**
